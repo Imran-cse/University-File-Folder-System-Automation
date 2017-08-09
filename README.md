@@ -2,7 +2,7 @@
 ### Overview
 * This is a web based project
 * This uses ASP.NET
-* This build to handle the official files of university
+* This is built to handle the official files of university
 * Here teachers and employees can mail files among them
 
 ### Prerequisite
