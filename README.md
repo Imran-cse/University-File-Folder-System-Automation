@@ -12,7 +12,17 @@
 ### Setup
 * Open SDP_Project.sln in Visual studio
 * Run sdpprctice.sql in Mysql server
+### Contributors
 
+*	Imran Hossain
+	Student ID: 150203
+	Khulna University, Bangladesh.
+
+*	Md. Abu Sayed
+	Student Id: 150220
+	Khulna University, Bangladesh.
+
+	
 ### Project Supervisor
 #### Kazi Masudul Alam
   Assistant Professor<br />
