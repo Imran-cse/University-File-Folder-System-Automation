@@ -24,7 +24,7 @@
 
 	
 ### Project Supervisor
-#### Kazi Masudul Alam
+**Kazi Masudul Alam**\
   Assistant Professor<br />
   Khulna University, Bangladesh
   
